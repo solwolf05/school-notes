@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "sma"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "sma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for sma"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "sma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from sma"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "sma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of sma"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "9ea33fb789fbb516",
   "lastOpenFiles": [
-    "sma.md",
-    "mam.md",
-    "che.md",
-    "Specialist.md",
+    "README.md",
     "rae.md",
     "phy.md",
+    "mam.md",
+    "sma.md",
+    "che.md",
+    "Specialist.md",
     "methods.md",
     "lit.md",
     "chem.md",
@@ -198,7 +199,6 @@
     "Literature.md",
     "Physics.md",
     "Methods.md",
-    "RAE.md",
-    "README.md"
+    "RAE.md"
   ]
 }
