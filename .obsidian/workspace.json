@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "che.md",
+                "file": "sma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "che"
+              "title": "sma"
             }
           }
         ]
@@ -183,11 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a0409cf83a0c15cf",
+  "active": "6b9bbf68ce6b8f98",
   "lastOpenFiles": [
+    "che.md",
     "New Text Document.txt",
     "electron.png",
-    "che.md",
     "lit.md",
     "sma.md",
     "README.md",

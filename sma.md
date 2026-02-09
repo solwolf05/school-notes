@@ -7,12 +7,18 @@
 And = Multiply  
 Or = Add
 
-### Permutation - 6B
+### Permutation - 6B/C/D
 
 Total permutations of $n$ elements. Order matters.
 
 $$
 n!
+$$
+
+Pick $r$ items from $n$. Order matters. No repetition.
+
+$$
+^nP_{r} = \frac{n!}{(n-r)!}
 $$
 
 Total permutations of $n$ elements. Order matters. With duplicates.  
@@ -28,8 +34,10 @@ $$
 \frac{7!}{2!3!}
 $$
 
-Pick $r$ items from $n$. Order matters. No repetition.
+### Combinations - 6E/F
+
+Pick $r$ items from $n$. Order does not matter
 
 $$
-^nP_{r} = \frac{n!}{(n-r)!}
+^nP_{r} = \frac{n!}{r!(n-r)!}
 $$
