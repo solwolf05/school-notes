@@ -41,3 +41,13 @@ Pick $r$ items from $n$. Order does not matter
 $$
 ^nP_{r} = \frac{n!}{r!(n-r)!}
 $$
+
+### Inclusion Exclusion Principle - 6I
+
+$\cap$ = intersection  
+$\cup$ = union  
+$A'$ = not  
+$\emptyset$ = empty  
+$\subseteq$ = subset or equal
+$|A|$ = number of elements
+$|A \cup B|$ = $|A + B - A \cap B|$
