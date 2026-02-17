@@ -2,7 +2,11 @@
 
 ## Unit 1
 
-### Rationalising the Denominator
+### Surds - 3B/C
+
+todo
+
+#### Rationalising the Denominator - 3C
 
 Use difference of two squares.
 
@@ -21,17 +25,19 @@ $$
 \end{align}
 $$
 
-### Solving Quadratic Equations
+### Quadratic Equations 4C/D/E/H
 
 $$
 ax^2+bx+c
 $$
 
-#### Easy Way
+#### Solving the Easy Way - 4C
 
 ##### Monic
 
 Factors of $c$ that add to $b$.
+
+Example
 
 $$
 \begin{align}
@@ -46,6 +52,8 @@ $$
 
 Factors of $c + a$ that add to $b$.
 
+Example
+
 $$
 \begin{align}
 &2x^2 + 7x + 6 = 0 \\
@@ -57,7 +65,7 @@ $$
 \end{align}
 $$
 
-#### Completing the Square
+#### Completing the Square - 4E
 
 ##### Monic
 
@@ -66,6 +74,8 @@ $$
 3. Simplify
 4. Add the leftovers
 5. Solve
+
+Example
 
 $$
 \begin{align}
@@ -85,6 +95,8 @@ $$
 1. Factorise
 2. Same as monic
 
+Example
+
 $$
 \begin{align}  
 &3x^2 + 2x + 3 = 0 \\
@@ -100,7 +112,7 @@ $$
 \end{align}  
 $$
 
-#### Axis of Symmetry
+#### Solving with Axis of Symmetry
 
 1. Find axis of symmetry with $x=-\frac{b}{2a}$
 2. Find turning point
@@ -142,3 +154,11 @@ $$
 $$
 
 Solve
+
+#### Discriminant - 4I
+
+Discriminant ($\Delta$) = $b^2 - 4ac$
+
+$\Delta < 0$, no real solutions, no touch x axis
+$\Delta = 0$, 1 real solution, touch x axis
+$\Delta > 0$, 2 real solutions, cross x axis

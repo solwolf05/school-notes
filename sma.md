@@ -50,4 +50,7 @@ $A'$ = not
 $\emptyset$ = empty  
 $\subseteq$ = subset or equal
 $|A|$ = number of elements
-$|A \cup B|$ = $|A + B - A \cap B|$
+$A \cup B$ = $A + B - A \cap B$
+
+### Applications to Probability - 6J
+
