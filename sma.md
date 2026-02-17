@@ -48,8 +48,8 @@ $\cap$ = intersection
 $\cup$ = union  
 $A'$ = not  
 $\emptyset$ = empty  
-$\subseteq$ = subset or equal
-$|A|$ = number of elements
+$\subseteq$ = subset or equal  
+$|A|$ = number of elements  
 $A \cup B$ = $A + B - A \cap B$
 
 ### Direct Proof - 7A

@@ -21,7 +21,7 @@ $$
 E_{k} = \frac{1}{2}mv^2
 $$
 
-$m$ = Mass
+$m$ = Mass  
 $v$ = Volume
 
 Heat is the energy that is transferred between objects. More heat = more temperature.
@@ -59,6 +59,6 @@ Vaporisation = $Q = mLv$
 Reliability = Repeatable, precise  
 Validity = Accurate answer
 
-Accuracy = Close to accepted value, low **error**
+Accuracy = Close to accepted value, low **error**  
 Precision = Repeatable, low variance, low **uncertainty**
 
