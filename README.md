@@ -2,9 +2,9 @@
 
 You're welcome.
 
-[Chemistry](che)  
-[Physics](phy)  
-[Specialist Mathematics](sma)  
-[Mathematical Methods](mam)  
-[Literature](lit)  
-[Religion and Ethics](rae)
+[Chemistry](che.md)  
+[Physics](phy.md)  
+[Specialist Mathematics](sma.md)  
+[Mathematical Methods](mam.md)  
+[Literature](lit.md)  
+[Religion and Ethics](rae.md)
