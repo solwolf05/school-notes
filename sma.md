@@ -7,7 +7,7 @@
 And = Multiply  
 Or = Add
 
-### Permutation - 6B/C/D
+### Permutation - 6B/C/D/J
 
 Total permutations of $n$ elements. Order matters.
 
@@ -34,7 +34,7 @@ $$
 \frac{7!}{2!3!}
 $$
 
-### Combinations - 6E/F
+### Combinations - 6E/F/J
 
 Pick $r$ items from $n$. Order does not matter
 
@@ -48,9 +48,17 @@ $\cap$ = intersection
 $\cup$ = union  
 $A'$ = not  
 $\emptyset$ = empty  
-$\subseteq$ = subset or equal
-$|A|$ = number of elements
+$\subseteq$ = subset or equal  
+$|A|$ = number of elements  
 $A \cup B$ = $A + B - A \cap B$
 
-### Applications to Probability - 6J
+### Direct Proof - 7A
 
+Symbols  
+$\forall$ = For all  
+$\in$ = Is an element of
+
+Sets  
+$\mathbb{Z}$ = Integers  
+$Q$ = Rational numbers  
+$R$ = Real numbers
