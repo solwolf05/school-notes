@@ -159,6 +159,6 @@ Solve
 
 Discriminant ($\Delta$) = $b^2 - 4ac$
 
-$\Delta < 0$, no real solutions, no touch x axis
-$\Delta = 0$, 1 real solution, touch x axis
+$\Delta < 0$, no real solutions, no touch x axis  
+$\Delta = 0$, 1 real solution, touch x axis  
 $\Delta > 0$, 2 real solutions, cross x axis
