@@ -54,3 +54,35 @@ The size of an atom (half the distance between nuclei).
 
 Increase down the periodic table - more electron shells  
 Decrease along the periodic table - more protons = more electrostatic attraction, and tighter electron shells.
+
+#### Ionisation Energy
+
+The energy required to lose an electron.  
+Increases up - less shells - stronger pull.  
+Increases across - more protons - stronger pull.
+
+#### Successive Ionisation Energy
+
+The energy required to lose multiple electrons.  
+More electrons = more energy required.
+
+#### Electronegativity
+
+The ability of an atom to attract electrons.  
+Increases up - less shells - stronger pull.
+Increases right - more protons - stronger pull.
+
+### Bonding
+
+Incomplete valence shell -> react -> new compound.
+
+#### Ionic Bonding
+
+A metal and nonmetal.
+
+The metal gives electrons to the nonmetal, completing their valence shells.  
+Positive and negative charge = electrostatic attraction = holds them together.  
+
+#### Covalent Bonding
+
+todo
