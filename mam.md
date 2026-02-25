@@ -162,3 +162,21 @@ Discriminant ($\Delta$) = $b^2 - 4ac$
 $\Delta < 0$, no real solutions, no touch x axis  
 $\Delta = 0$, 1 real solution, touch x axis  
 $\Delta > 0$, 2 real solutions, cross x axis
+
+### Binomial Expansion - 7C
+
+$$
+(a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k
+$$
+
+Expanded
+
+$$
+(a+b)^n =  
+\binom{n}{0}a^n +  
+\binom{n}{1}a^{n-1}b +  
+\binom{n}{2}a^{n-2}b^2 +  
+\cdots +  
+\binom{n}{n-1}ab^{n-1} +  
+\binom{n}{n}b^n
+$$
