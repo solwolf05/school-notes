@@ -85,4 +85,7 @@ Positive and negative charge = electrostatic attraction = holds them together.
 
 #### Covalent Bonding
 
-todo
+Two nonmetals.
+
+The nonmetals share valence electrons.  
+Lines between elements = number of shared electrons.

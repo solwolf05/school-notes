@@ -180,3 +180,6 @@ $$
 \binom{n}{n-1}ab^{n-1} +  
 \binom{n}{n}b^n
 $$
+
+### Cubic Equations
+
