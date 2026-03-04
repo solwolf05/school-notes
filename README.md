@@ -8,3 +8,4 @@ You're welcome.
 [Mathematical Methods](mam.md)  
 [Literature](lit.md)  
 [Religion and Ethics](rae.md)
+[Intro to Chemistry](che105.md)
