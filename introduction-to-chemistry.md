@@ -1,3 +1,10 @@
 # Introduction to Chemistry
 
-10 hours of work per week.
+**Rule**
+- collection of generalizations
+**Law**
+- description of what happens based on what's observed 
+**Theory**
+- testable statement of how things happen
+**Hypothesis:**
+- not yet thoroughly tested or widely accepted theory.
