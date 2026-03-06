@@ -2,10 +2,12 @@
 
 You're welcome.
 
-[Chemistry](Chemistry.md)  
-[Physics](Physics.md)  
-[Specialist Mathematics](Specialist%20Mathematics.md)  
-[Mathematical Methods](Mathematical%20Methods.md)  
-[Literature](Literature.md)  
-[Religion and Ethics](Religion%20and%20Ethics.md)
-[Intro to Chemistry](Introduction%20to%20Chemistry.md)
+[chemistry](chemistry.md)  
+[physics](physics.md)  
+[specialist-mathematics](specialist-mathematics.md)  
+[mathematical-methods](mathematical-methods.md)  
+[literature](literature.md)  
+[religion-and-ethics](religion-and-ethics.md)
+[Intro to Chemistry](introduction-to-chemistry.md)
+
+[Sol's Notes](sol.md)
