@@ -1,6 +1,6 @@
 # How to use Git
 
-1. Always pull before working
+1. Pull (always remember)
 2. Make changes
 3. Commit
 4. Push
