@@ -69,7 +69,7 @@ More electrons = more energy required.
 #### Electronegativity
 
 The ability of an atom to attract electrons.  
-Increases up - less shells - stronger pull.
+Increases up - less shells - stronger pull.  
 Increases right - more protons - stronger pull.
 
 ### Bonding
