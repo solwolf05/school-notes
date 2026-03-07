@@ -1,10 +1,6 @@
 # Introduction to Chemistry
 
-**Rule**
-- collection of generalizations
-**Law**
-- description of what happens based on what's observed 
-**Theory**
-- testable statement of how things happen
-**Hypothesis:**
-- not yet thoroughly tested or widely accepted theory.
+Rule = collection of generalisations  
+Law = description of what happens based on what's observed  
+Theory = testable statement of how things happen
+Hypothesis = not thoroughly tested or widely accepted theory
