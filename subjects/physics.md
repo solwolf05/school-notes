@@ -52,7 +52,7 @@ Formulas:
 Fusion (melting) = $Q = mLf$  
 Vaporisation = $Q = mLv$
 
-![[specific-latent-heat.png]]
+![](images/electron.png)
 
 ### Report
 

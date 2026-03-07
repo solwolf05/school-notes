@@ -28,7 +28,7 @@ This is because they have opposite spins. No two electrons can be in the same pl
 Electrons fill lower-energy orbitals first (Aufbau Principle).  
 Within a sublevel, electrons occupy each orbital singly before pairing (Hund’s rule).
 
-![[electron.png]]
+![](images/electron.png)
 
 Copper and chromium are the two exceptions that fill 3d first.
 
