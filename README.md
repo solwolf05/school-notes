@@ -4,13 +4,13 @@ You're welcome.
 
 ## Subjects
 
-[chemistry](chemistry.md)  
-[physics](physics.md)  
-[specialist-mathematics](specialist-mathematics.md)  
-[mathematical-methods](mathematical-methods.md)  
-[literature](literature.md)  
-[religion-and-ethics](religion-and-ethics.md)
-[Intro to Chemistry](introduction-to-chemistry.md)
+[chemistry](subjects/chemistry.md)  
+[physics](subjects/physics.md)  
+[specialist-mathematics](subjects/specialist-mathematics.md)  
+[mathematical-methods](subjects/mathematical-methods.md)  
+[literature](subjects/literature.md)  
+[religion-and-ethics](subjects/religion-and-ethics.md)
+[Intro to Chemistry](subjects/introduction-to-chemistry.md)
 
 ## Extras
 
