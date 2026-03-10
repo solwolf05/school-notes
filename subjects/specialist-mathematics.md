@@ -52,7 +52,8 @@ $\subseteq$ = subset or equal
 $|A|$ = number of elements  
 $A \cup B$ = $A + B - A \cap B$
 
-### Direct Proof - 7A
+### Proof
+#### Direct Proof - 7A
 
 Symbols  
 $\forall$ = For all  
@@ -63,9 +64,31 @@ $\mathbb{Z}$ = Integers
 $Q$ = Rational numbers  
 $R$ = Real numbers
 
-### Proof by Contrapositive
+#### Proof by Contrapositive
 
-### Proof by Contradiction
+If *a* implies *b*, not *b* implies not *a*.
+
+Example: if $x$ is even, $x^2+1$ is odd.  
+Contrapositive: if $x^2+1$ is even, $x$ is odd.
+
+#### Proof by Contradiction
+
+Assume the opposite is true then show that that is nonsense.
+
+Example: if $x$ is even, $x^2+1$ is odd.  
+Contradiction: if $x$ is even, $x^2+1$ is even.  
+Prove that this is wrong.
 
 ### Vectors
 
+#### Dot Product
+
+How much the vectors are pointing in the same direction.
+
+$$
+(a\hat{i}+b\hat{j})\cdot(c\hat{i}+d\hat{j})=ac+bd
+$$
+
+$$
+\underset{\sim}{a}\cdot\underset{\sim}{b}=|\underset{\sim}{a}||\underset{\sim}{b}|\cos(\theta)
+$$

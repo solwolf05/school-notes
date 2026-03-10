@@ -89,3 +89,7 @@ Two nonmetals.
 
 The nonmetals share valence electrons.  
 Lines between elements = number of shared electrons.
+
+### Lewis Dot Diagrams
+
+Dots represent valence electrons.  
