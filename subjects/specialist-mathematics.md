@@ -81,6 +81,12 @@ Prove that this is wrong.
 
 ### Vectors
 
+$\hat{i}$ = right vector  
+$\hat{j}$ = up vector
+
+$|x\hat{i}+y\hat{j}|$ = length of vector = $\sqrt{ x^2+y^2 }$  
+$\hat{\underset{\sim}{a}}$ = unit vector (length 1) = $\frac{\underset{\sim}{a}}{|\underset{\sim}{a}|}$  
+
 #### Dot Product
 
 How much the vectors are pointing in the same direction.
@@ -92,3 +98,8 @@ $$
 $$
 \underset{\sim}{a}\cdot\underset{\sim}{b}=|\underset{\sim}{a}||\underset{\sim}{b}|\cos(\theta)
 $$
+
+$$
+\underset{\sim}{a}\cdot\underset{\sim}{a}=|\underset{\sim}{a}|^2
+$$
+

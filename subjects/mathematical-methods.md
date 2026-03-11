@@ -188,7 +188,7 @@ $$
 Domain = possible x values  
 Range = possible y values
 
-Expressed as $(min, max)$ or $min<x<max$
+Expressed as (min, max) or min $<x<$ max  
 \[ = more than or equal  
 \] = less than or equal  
 ( = more than  
