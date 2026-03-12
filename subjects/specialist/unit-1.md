@@ -1,13 +1,11 @@
-# Specialist Mathematics
+# Specialist Mathematics Unit 1
 
-## Unit 1
-
-### Multiplication and Addition Principle - 6A
+## Multiplication and Addition Principle - 6A
 
 And = Multiply  
 Or = Add
 
-### Permutation - 6B/C/D/J
+## Permutation - 6B/C/D/J
 
 Total permutations of $n$ elements. Order matters.
 
@@ -34,7 +32,7 @@ $$
 \frac{7!}{2!3!}
 $$
 
-### Combinations - 6E/F/J
+## Combinations - 6E/F/J
 
 Pick $r$ items from $n$. Order does not matter
 
@@ -42,7 +40,7 @@ $$
 ^nP_{r} = \frac{n!}{r!(n-r)!}
 $$
 
-### Inclusion Exclusion Principle - 6I
+## Inclusion Exclusion Principle - 6I
 
 $\cap$ = intersection  
 $\cup$ = union  
@@ -52,8 +50,9 @@ $\subseteq$ = subset or equal
 $|A|$ = number of elements  
 $A \cup B$ = $A + B - A \cap B$
 
-### Proof
-#### Direct Proof - 7A
+## Proof
+
+### Direct Proof - 7A
 
 Symbols  
 $\forall$ = For all  
@@ -64,14 +63,14 @@ $\mathbb{Z}$ = Integers
 $Q$ = Rational numbers  
 $R$ = Real numbers
 
-#### Proof by Contrapositive
+### Proof by Contrapositive
 
 If *a* implies *b*, not *b* implies not *a*.
 
 Example: if $x$ is even, $x^2+1$ is odd.  
 Contrapositive: if $x^2+1$ is even, $x$ is odd.
 
-#### Proof by Contradiction
+### Proof by Contradiction
 
 Assume the opposite is true then show that that is nonsense.
 
@@ -79,7 +78,7 @@ Example: if $x$ is even, $x^2+1$ is odd.
 Contradiction: if $x$ is even, $x^2+1$ is even.  
 Prove that this is wrong.
 
-### Vectors
+## Vectors
 
 $\hat{i}$ = right vector  
 $\hat{j}$ = up vector
@@ -87,7 +86,7 @@ $\hat{j}$ = up vector
 $|x\hat{i}+y\hat{j}|$ = length of vector = $\sqrt{ x^2+y^2 }$  
 $\hat{\underset{\sim}{a}}$ = unit vector (length 1) = $\frac{\underset{\sim}{a}}{|\underset{\sim}{a}|}$  
 
-#### Dot Product
+### Dot Product
 
 How much the vectors are pointing in the same direction.
 
@@ -102,4 +101,3 @@ $$
 $$
 \underset{\sim}{a}\cdot\underset{\sim}{a}=|\underset{\sim}{a}|^2
 $$
-

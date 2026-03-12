@@ -1,4 +1,4 @@
-# Introduction to Chemistry
+# Introductory Chemistry
 
 Rule = collection of generalisations  
 Law = description of what happens based on what's observed  

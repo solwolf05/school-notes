@@ -1,12 +1,10 @@
-# Mathematical Methods
+# Unit 1
 
-## Unit 1
-
-### Surds - 3B/C
+## Surds - 3B/C
 
 todo
 
-#### Rationalising the Denominator - 3C
+### Rationalising the Denominator - 3C
 
 Use difference of two squares.
 
@@ -25,15 +23,15 @@ $$
 \end{align}
 $$
 
-### Quadratic Equations 4C/D/E/H
+## Quadratic Equations 4C/D/E/H
 
 $$
 ax^2+bx+c
 $$
 
-#### Solving the Easy Way - 4C
+### Solving the Easy Way - 4C
 
-##### Monic
+#### Monic
 
 Factors of $c$ that add to $b$.
 
@@ -48,7 +46,7 @@ $$
 \end{align}
 $$
 
-##### Non-Monic
+#### Non-Monic
 
 Factors of $c + a$ that add to $b$.
 
@@ -65,9 +63,9 @@ $$
 \end{align}
 $$
 
-#### Completing the Square - 4E
+### Completing the Square - 4E
 
-##### Monic
+#### Monic
 
 1. Add $\left( \frac{b}{2} \right)^2$ and $-\left( \frac{b}{2} \right)^2$ to the expression
 2. Turn the $x$'s into a big square
@@ -90,7 +88,7 @@ $$
 \end{align}
 $$
 
-##### Non-Monic
+#### Non-Monic
 
 1. Factorise
 2. Same as monic
@@ -112,7 +110,7 @@ $$
 \end{align}  
 $$
 
-#### Solving with Axis of Symmetry
+### Solving with Axis of Symmetry
 
 1. Find axis of symmetry with $x=-\frac{b}{2a}$
 2. Find turning point
@@ -155,7 +153,7 @@ $$
 
 Solve
 
-#### Discriminant - 4I
+### Discriminant - 4I
 
 Discriminant ($\Delta$) = $b^2 - 4ac$
 
@@ -163,7 +161,7 @@ $\Delta < 0$, no real solutions, no touch x axis
 $\Delta = 0$, 1 real solution, touch x axis  
 $\Delta > 0$, 2 real solutions, cross x axis
 
-### Binomial Expansion - 7C
+## Binomial Expansion - 7C
 
 $$
 (a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k
@@ -181,9 +179,9 @@ $$
 \binom{n}{n}b^n
 $$
 
-### Cubic Equations
+## Cubic Equations
 
-### Domains, Ranges, and Functions
+## Domains, Ranges, and Functions
 
 Domain = possible x values  
 Range = possible y values
@@ -194,3 +192,6 @@ Expressed as (min, max) or min $<x<$ max
 ( = more than  
 ) = less than
 
+### Multiple Functions
+
+todo

@@ -5,6 +5,11 @@
 3. Commit
 4. Push
 
+Pull
+```
+git pull
+```
+
 Commit
 ```
 git add .
@@ -14,9 +19,4 @@ git commit -m "message"
 Push
 ```
 git push
-```
-
-Pull
-```
-git pull
 ```
