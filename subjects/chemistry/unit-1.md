@@ -90,4 +90,8 @@ Lines between elements = number of shared electrons.
 
 ## Lewis Dot Diagrams
 
-Dots represent valence electrons.
+Dots represent valence electrons.  
+Line between elements = 2 shared electrons
+
+## Enthalpy
+
