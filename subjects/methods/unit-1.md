@@ -179,8 +179,6 @@ $$
 \binom{n}{n}b^n
 $$
 
-## Cubic Equations
-
 ## Domains, Ranges, and Functions
 
 Domain = possible x values  
@@ -192,6 +190,41 @@ Expressed as (min, max) or min $<x<$ max
 ( = more than  
 ) = less than
 
-### Multiple Functions
+## Graphing
 
-todo
+### Cubic Equations
+
+$$
+y=ax^3+bx^2+cx+d
+$$
+
+Turning point = point where the graph turns.  
+
+### Circle
+
+$$
+(x-h)^2+(y-k)^2=r^2
+$$
+
+$r =$ radius
+
+### Square Roots
+
+$$
+y=\sqrt{ x-h }+k
+$$
+
+### Sideways Quadratics
+
+$$
+x=(y-k)^2+h
+$$
+
+### Hyperbolas
+
+$$
+y=\frac{1}{x-h}+k
+$$
+
+$h =$ x asymptote  
+$k =$ y asymptote

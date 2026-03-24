@@ -101,3 +101,7 @@ $$
 $$
 \underset{\sim}{a}\cdot\underset{\sim}{a}=|\underset{\sim}{a}|^2
 $$
+
+### Projections
+
+Project one vector onto another.

@@ -52,6 +52,10 @@ Vaporisation = $Q = mLv$
 
 ![[specific-latent-heat.png]]
 
+## Nuclear
+
+E=mc^2
+
 ## Report
 
 Reliability = Repeatable, precise  
