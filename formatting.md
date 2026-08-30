@@ -3,6 +3,5 @@
 ## Headings
 
 \# - Title
-\## - Unit
-\### - Topic
-\####+ - Subtopics
+\## - Topic
+\###+ - Subtopics
