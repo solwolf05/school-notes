@@ -1,0 +1,13 @@
+filters:
+  and:
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Revision
+    filters:
+      and:
+        - status == false
+    sort:
+      - property: file.name
+        direction: ASC
+    indentProperties: false

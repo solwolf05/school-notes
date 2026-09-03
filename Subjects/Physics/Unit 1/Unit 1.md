@@ -1,5 +1,3 @@
-# Physics Unit 1
-
 ## Kinetic Theory
 
 Matter is made of moving particles. The distance between particles is inversely correlated with the force between them (potential energy). Temperature is the measure of the average kinetic energy of the particles. Collisions between particles are elastic (no energy is lost).

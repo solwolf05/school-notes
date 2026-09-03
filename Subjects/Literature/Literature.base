@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Literature
+    filters:
+      and:
+        - subject == "Literature"
+    groupBy:
+      property: unit
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.mtime
+        direction: ASC

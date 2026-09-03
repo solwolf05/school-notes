@@ -1,5 +1,3 @@
-# Chemistry Unit 1
-
 ## Electron Orbitals
 
 Each energy level (principle quantum number n) contains up to n sublevels.  
@@ -26,7 +24,7 @@ This is because they have opposite spins. No two electrons can be in the same pl
 Electrons fill lower-energy orbitals first (Aufbau Principle).  
 Within a sublevel, electrons occupy each orbital singly before pairing (Hund’s rule).
 
-![](images/electron.png)
+![](electron.png)
 
 Copper and chromium are the two exceptions that fill 3d first.
 

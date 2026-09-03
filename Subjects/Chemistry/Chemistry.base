@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Chemistry
+    filters:
+      and:
+        - subject == "Chemistry"
+    groupBy:
+      property: unit
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.mtime
+        direction: ASC

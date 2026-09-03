@@ -1,5 +1,3 @@
-# Unit 1
-
 ## Surds - 3B/C
 
 todo

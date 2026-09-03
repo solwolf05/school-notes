@@ -1,5 +1,3 @@
-# Specialist Mathematics Unit 1
-
 ## Multiplication and Addition Principle - 6A
 
 And = Multiply  

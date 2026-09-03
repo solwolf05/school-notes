@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Physics
+    filters:
+      and:
+        - subject == "Methods"
+    groupBy:
+      property: unit
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.mtime
+        direction: ASC
